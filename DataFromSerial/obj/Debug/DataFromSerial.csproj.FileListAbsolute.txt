@@ -1,0 +1,9 @@
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/bin/Debug/DataFromSerial.exe
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/bin/Debug/DataFromSerial.pdb
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/bin/Debug/System.IO.Ports.dll
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/bin/Debug/System.IO.Ports.xml
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/obj/Debug/DataFromSerial.csprojAssemblyReference.cache
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/obj/Debug/DataFromSerial.csproj.CoreCompileInputs.cache
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/obj/Debug/DataFromSerial.csproj.CopyComplete
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/obj/Debug/DataFromSerial.exe
+/Users/zhangzuomei/Projects/DataFromSerial/DataFromSerial/obj/Debug/DataFromSerial.pdb

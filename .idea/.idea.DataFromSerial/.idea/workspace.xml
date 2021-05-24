@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8b285a7-5dc3-47c9-9c69-859568a470af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataFromSerial/ReadData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFromSerial/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Assets/AboutAssets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/MainActivity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Misquestion.Android.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Properties/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/AboutResources.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/Resource.designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/drawable/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/drawable/xamarin_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/layout/Tabbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/layout/Toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-anydpi-v26/icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-anydpi-v26/icon_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-hdpi/launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-mdpi/launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xhdpi/launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Resources/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.Android/Services/ResizerServiceAndroid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/App.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/App.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/LargeTile.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/LargeTile.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/LargeTile.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SmallTile.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SmallTile.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SmallTile.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SplashScreen.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SplashScreen.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/SplashScreen.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square150x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square150x150Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square150x150Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.altform-unplated_targetsize-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.altform-unplated_targetsize-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.altform-unplated_targetsize-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.targetsize-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.targetsize-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Square44x44Logo.targetsize-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/StoreLogo.backup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/StoreLogo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/StoreLogo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/StoreLogo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Wide310x150Logo.scale-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Wide310x150Logo.scale-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Assets/Wide310x150Logo.scale-400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/MainPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/MainPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Misquestion.UWP.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Package.appxmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Properties/Default.rd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/Services/ResizerServiceUWP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.UWP/xamarin_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/AppDelegate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Assets.xcassets/AppIcon.appiconset/Icon87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Entitlements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Misquestion.iOS.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/Default-568h@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/Default-Portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/Default-Portrait@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/Default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/Default@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_about@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_about@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_feed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_feed@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/tab_feed@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/xamarin_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/xamarin_logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Resources/xamarin_logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.iOS/Services/ResizerServiceiOS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/App.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/App.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Confidential/OneDriveOAuthSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/ChapterBackgroundColorConvert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/FileNameToImageSourceConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/ItemTappedEventArgsToChapterConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/ItemTappedEventArgsToMenuItemConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/ItemTappedEventArgsToSubjectConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/ItemTappedEventArgsToTopicConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/MenuItemBackgroundColorConvert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/NegativeConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/SubjectBackgroundColorConvert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Converters/TopicBackgroundColorConvert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Misquestion.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Chapter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/HomeMenuItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Image.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/MenuItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/ReviewList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Subject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Target.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Models/Topic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/AlertService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ChapterStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ContentNavigationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ContentPageActivationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/DatabaseConnectionService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IAlertService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IChapterStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IContentNavigationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IContentPageActivationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IDataStore.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IDatabaseConnectionService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IImageStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/INotifyStatusChanged.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IPhotograph.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IPhotographService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IPreferenceStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IRemoteSubjectStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IResizerService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IReviewListStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IRootNavigationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/IRootPageActivationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ISubjectStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ISyncService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ITopicStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ImageResizerService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ImageStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/MockDataStore.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/NavigationContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/OneDriveSubjectStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/PhotographService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/PreferenceStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/ReviewListStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/RootNavigationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/RootPageActivationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/SubjectStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/SyncService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Services/TopicStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Utils/DoNotCallMeException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Utils/ErrorMessages.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/AddTopicPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/BaseViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ChapterEditPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ChapterPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ClientPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/DeleteChapterPopupPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/DeleteSubjectPopupPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/DeleteTopicPopupPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/InsertChapterPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/InsertSubjectPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/IsSureCleanCachePageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/IsSureDeletedPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ItemDetailViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ItemsViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/MenuPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/PreviewImageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ReviewListPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ReviewPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/SubjectEditPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/SubjectMorePopupPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/SyncPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/TopicDetailPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/TopicEditPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/TopicListPageViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/TopicViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/ViewModels/ViewModelLocator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/AddTopicPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/AddTopicPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterEditPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterEditPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterMorePopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterMorePopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ChapterPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ClientPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ClientPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteChapterPopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteChapterPopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteSubjectPopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteSubjectPopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteTopicPopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/DeleteTopicPopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/InsertChapterPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/InsertChapterPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/InsertSubjectPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/InsertSubjectPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureCleanCachePage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureCleanCachePage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureCompletedPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureCompletedPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureDeletedPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/IsSureDeletedPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ItemDetailPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ItemDetailPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ItemsPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ItemsPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/JumpPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/JumpPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/MainPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/MainPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/MenuPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/MenuPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/NewItemPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/NewItemPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/Page1.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/Page1.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/Page2.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/Page2.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/PreviewImagePage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/PreviewImagePage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewListPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewListPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewTopicDetailPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/ReviewTopicDetailPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SaveSuccessfullyPopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SaveSuccessfullyPopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SubjectEditPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SubjectEditPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SubjectMorePopupPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SubjectMorePopupPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SyncPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/SyncPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TestCameraPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TestCameraPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicDetailPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicDetailPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicEditPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicEditPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicListPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/Views/TopicListPage.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misquestion/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/ChapterBackgroundColorConvertTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/FileNameToImageSourceConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/ItemTappedEventArgsToChapterConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/ItemTappedEventArgsToMenuItemConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/ItemTappedEventArgsToSubjectConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/ItemTappedEventArgsToTopicConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/MenuItemBackgroundColorConvertTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/NegativeConverterTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/SubjectBackgroundColorConvertTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Converters/TopicBackgroundColorConvertTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Helpers/DatabaseConnectionServiceHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Helpers/SubjectStorageHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/MisquestionTest.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/ChapterStorageTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/DatabaseConnectionServiceTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/ImageStorageTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/ReviewListStorageTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/SubjectStorageTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/SyncServiceTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/Services/TopicStorageTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/AddTopicPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ChapterEditPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ChapterPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ClientPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/DeleteChapterPopupPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/DeleteSubjectPopupPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/DeleteTopicPopupPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ImageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/InsertChapterPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/InsertSubjectPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/MenuPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/PreviewImageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ReviewListPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/ReviewPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/SubjectEditPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/SubjectMorePopupPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/SyncPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/TopicDetailPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/TopicEditPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/TopicListPageViewModelTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisquestionTest/ViewModels/TopicViewModelTest.cs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EC1308D-080D-47E4-8CA9-D0C198FD4489/04/2c99119b/MbroStub.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFromSerial/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EC1308D-080D-47E4-8CA9-D0C198FD4489/71/25d89f86/LauncherManagedCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFromSerial/ReadData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EC1308D-080D-47E4-8CA9-D0C198FD4489/6e/0804c27a/Launcher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DataFromSerial/Program.cs" />
+        <option value="$PROJECT_DIR$/DataFromSerial/SerialPortUtils/SerialProtUtils.cs" />
+        <option value="$PROJECT_DIR$/DataFromSerial/ReadData.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sq5TIeSFVySHQWNOvCBi1psLh8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34962717" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29991716" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected=".NET Static Method.DataFromSerial.ReadData.Main">
+    <configuration name="DataFromSerial" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DataFromSerial/DataFromSerial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="DataFromSerial.ReadData.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DataFromSerial/DataFromSerial.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="DataFromSerial.ReadData" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.DataFromSerial.ReadData.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b285a7-5dc3-47c9-9c69-859568a470af" name="Default Changelist" comment="" />
+      <created>1621587286970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621587286970</updated>
+      <workItem from="1621587298963" duration="10639000" />
+      <workItem from="1621763908823" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="387" key="GridCell.Tab.0.bottom" timestamp="1621825707675">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="387" key="GridCell.Tab.0.bottom/0.23.2560.1351@0.23.2560.1351" timestamp="1621825707675" />
+    <state width="1238" height="387" key="GridCell.Tab.0.center" timestamp="1621825707674">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="387" key="GridCell.Tab.0.center/0.23.2560.1351@0.23.2560.1351" timestamp="1621825707674" />
+    <state width="1238" height="387" key="GridCell.Tab.0.left" timestamp="1621825707674">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="387" key="GridCell.Tab.0.left/0.23.2560.1351@0.23.2560.1351" timestamp="1621825707674" />
+    <state width="1238" height="387" key="GridCell.Tab.0.right" timestamp="1621825707674">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="387" key="GridCell.Tab.0.right/0.23.2560.1351@0.23.2560.1351" timestamp="1621825707674" />
+    <state width="1238" height="475" key="GridCell.Tab.1.bottom" timestamp="1621606597654">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.1.bottom/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597654" />
+    <state width="1238" height="475" key="GridCell.Tab.1.center" timestamp="1621606597654">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.1.center/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597654" />
+    <state width="1238" height="475" key="GridCell.Tab.1.left" timestamp="1621606597654">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.1.left/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597654" />
+    <state width="1238" height="475" key="GridCell.Tab.1.right" timestamp="1621606597654">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.1.right/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597654" />
+    <state width="1238" height="475" key="GridCell.Tab.2.bottom" timestamp="1621606597657">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.2.bottom/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597657" />
+    <state width="1238" height="475" key="GridCell.Tab.2.center" timestamp="1621606597655">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.2.center/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597655" />
+    <state width="1238" height="475" key="GridCell.Tab.2.left" timestamp="1621606597655">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.2.left/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597655" />
+    <state width="1238" height="475" key="GridCell.Tab.2.right" timestamp="1621606597656">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.2.right/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597656" />
+    <state width="1238" height="475" key="GridCell.Tab.3.bottom" timestamp="1621606597659">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.3.bottom/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597659" />
+    <state width="1238" height="475" key="GridCell.Tab.3.center" timestamp="1621606597658">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.3.center/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597658" />
+    <state width="1238" height="475" key="GridCell.Tab.3.left" timestamp="1621606597658">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.3.left/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597658" />
+    <state width="1238" height="475" key="GridCell.Tab.3.right" timestamp="1621606597659">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state width="1238" height="475" key="GridCell.Tab.3.right/0.23.2560.1351@0.23.2560.1351" timestamp="1621606597659" />
+    <state x="1429" y="337" key="SettingsEditor" timestamp="1621588088230">
+      <screen x="0" y="23" width="2560" height="1351" />
+    </state>
+    <state x="1429" y="337" key="SettingsEditor/0.23.2560.1351@0.23.2560.1351" timestamp="1621588088230" />
+  </component>
+</project>
